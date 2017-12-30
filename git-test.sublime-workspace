@@ -1,0 +1,536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"two",
+				"two"
+			],
+			[
+				"toggl",
+				"toggleButton"
+			],
+			[
+				"to",
+				"toggleSidebar"
+			],
+			[
+				"animation",
+				"animation-delay"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"K",
+				"KeYResponsibilities"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"border-bo",
+				"border-bottom-left-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col-xs",
+				"col-xs-12"
+			],
+			[
+				"panel",
+				"panel-default"
+			],
+			[
+				"pan",
+				"panel-body"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"fonts",
+				"fonts"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"bre",
+				"word-break"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"backgr",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 686.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 686.0
+	},
+	"console":
+	{
+		"height": 83.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mark.woodhouse/Documents/GitHub/thisisnew"
+	],
+	"file_history":
+	[
+		"/C/Users/mark.woodhouse/Documents/GitHub/thisisnew/index.htm",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/email-eng-m.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/email-es.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/email-eng-s.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/email.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/General-Guide.html",
+		"/C/Users/mark.woodhouse/Desktop/Web Indexes/index-page.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/custom.css",
+		"/C/Users/mark.woodhouse/Desktop/Web Indexes/index1.html",
+		"/C/Users/mark.woodhouse/Desktop/Web Indexes/index1 - Copy.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/joomla.css",
+		"/C/Users/mark.woodhouse/Desktop/email-es.html",
+		"/C/Users/mark.woodhouse/Desktop/Web Indexes/index-page 1.html",
+		"/M/+ Branding/+ Branded Items/E Christmas Cards/Development/email-es.html",
+		"/M/+ Branding/+ Branded Items/E Christmas Cards/Development/email.html",
+		"/C/Users/mark.woodhouse/Desktop/Wishing you a very Merry Christmas 🎄.msg",
+		"/C/Users/mark.woodhouse/Desktop/New folder (2)/index1.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/backgroundtest/styles1.css",
+		"/C/Users/mark.woodhouse/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/test.asp",
+		"/C/Users/mark.woodhouse/Desktop/New folder (2)/test.html",
+		"/C/Users/mark.woodhouse/Desktop/.htaccess",
+		"/C/Program Files/Common Files/Adobe/Adobe XD CC/AMT/SLConfig.xml",
+		"/C/Program Files/Common Files/Adobe/Adobe XD CC/AMT/application.xml",
+		"/C/Users/mark.woodhouse/Desktop/test.html",
+		"/S/MEDIA/Test/test.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/upload.html",
+		"/C/Users/mark.woodhouse/Desktop/details.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/details.html",
+		"/C/Users/mark.woodhouse/Desktop/upload.html",
+		"/C/Users/mark.woodhouse/Desktop/06_jQuery/tasks.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/params.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/category 2.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/category.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/modules.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/component.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/default.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/category_item.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/item.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/item-posts-layout-1.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/layouts.php",
+		"/C/wamp64/www/higham/wp-content/plugins/tm-content-builder/framework/includes/modules/templates/post/item-posts-layout-1.php",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/backgroundtest/code1.js",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/backgroundtest/code.js",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/New folder/sprite_demo.html",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/backgroundtest/test.html",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/backgroundtest/styles.css",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/06_jQuery/scripts/jquery-2.0.3.js",
+		"/C/Users/mark.woodhouse/Desktop/page.js",
+		"/C/Users/mark.woodhouse/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/06_jQuery/styles/tasks.css",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/06_jQuery/tasks.html",
+		"/C/Users/mark.woodhouse/Desktop/Tutorials/04_HTML5_Markup_Language/tasks.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/single.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/content-single.php",
+		"/C/Users/mark.woodhouse/Desktop/content-single.php",
+		"/C/wamp64/www/higham/wp-content/plugins/tm-content-builder/framework/includes/modules/templates/post/listing.php",
+		"/C/Users/mark.woodhouse/Desktop/Higham Farm/Higham Farm Archive 2017-08-04/httpdocs/santoshighamfarm.co.uk/constants.asp",
+		"/C/Users/mark.woodhouse/Desktop/Higham Farm/Higham Farm Archive 2017-08-04/httpdocs/santoshighamfarm.co.uk/inc_admin_meta.asp",
+		"/C/Users/mark.woodhouse/Desktop/Higham Farm/Higham Farm Archive 2017-08-04/httpdocs/web.config",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/wamp64/www/higham/wp-content/themes/woods/assets/sass/builder/modules/_posts.scss",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/content.php",
+		"/C/Users/mark.woodhouse/Desktop/04_HTML5_Markup_Language/tasks.html",
+		"/C/Users/mark.woodhouse/Desktop/Higham Farm/.htaccess",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/web.config",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/wp-config.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/web 3.config",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/wp-config-sample.php",
+		"/C/Users/mark.woodhouse/Desktop/04_HTML5_Markup_Language/styles/tasks.css",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/.htaccess",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/web.config",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/web 2.config",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/streams.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/l10n.php",
+		"/C/wamp64/www/higham/wp-content/plugins/tm-photo-gallery/languages/tm-gallery.pot",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/tm-gallery.pot",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-3/.user.ini",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/.htaccess 2",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/MMD_India_SriCity.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/MMD_India_SriCity_reply.html",
+		"//192.29.220.12/m$/website/reflist/ref/nopasshead.php",
+		"//192.29.220.12/m$/website/reflist/dbheader.php",
+		"//192.29.220.12/m$/website/reflist/enterinfo.php",
+		"//192.29.220.12/m$/website/reflist/view.php",
+		"/C/Users/mark.woodhouse/Desktop/06_jQuery/scripts/jquery-tmpl.js",
+		"/C/wamp64/www/higham/wp-content/themes/woods/inc/customizer.php",
+		"/C/wamp64/www/higham/wp-content/plugins/hotel-booking/includes/views/MPHBLoopRoomTypeView.php",
+		"/C/wamp64/www/higham/wp-settings.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/MMD_Australia_Narangba.html",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/MMD_Australia_Narangba1.html",
+		"/C/wamp64/www/higham/wp-content/themes/woods/style.css",
+		"/C/Recovery/ReAgentOld.xml",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/web 2.config",
+		"/C/Users/mark.woodhouse/Desktop/MMD_Australia_Narangba.html",
+		"/C/Users/mark.woodhouse/Desktop/MMD_thailand.html",
+		"/C/wamp64/www/higham/index.php",
+		"/C/wamp64/www/higham/wp-content/index.php",
+		"/C/wamp64/www/higham/wp-content/themes/woods/mphb_templates/loop-room-type/book-button.php",
+		"/C/wamp64/www/higham/wp-content/plugins/hotel-booking/includes/views/MPHBRoomTypeView.php",
+		"/C/wamp64/www/higham/wp-content/plugins/hotel-booking/includes/views/MPHBLoopServiceView.php",
+		"/C/wamp64/www/testing/styles.css",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/Temp1_template_58970_96gd6929cxb1xsDIUT3U.zip/theme/sample_data/sample_data.xml",
+		"/C/wamp64/www/higham/.htaccess",
+		"/C/wamp64/www/HomeStay/application/views/templates/header.php",
+		"/C/wamp64/www/HomeStay/assets/css/site.css",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/mmdoffices.php",
+		"/C/Users/mark.woodhouse/Desktop/mod_simplecontact.xml",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/tag.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/latest_item.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/latest.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/itemform.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/item_comments_form.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/default 3.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/default_old1.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/extrafield.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/extrafields.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/user.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/pagination.php",
+		"/C/wamp64/www/Joomla/components/com_jce/editor/tiny_mce/plugins/xhtmlxtras/tmpl/events.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/default 5.php",
+		"/C/wamp64/www/Joomla/libraries/fof/utils/observable/event.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/default 6.php",
+		"/C/Users/mark.woodhouse/AppData/Local/Temp/fz3temp-2/view.html.php",
+		"/C/wamp64/www/Joomla/libraries/joomla/event/dispatcher.php"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"w100",
+			"class=w90",
+			"0",
+			"blockquote",
+			"#product_sub_header",
+			"prod",
+			";\n",
+			"maintop",
+			"maintop2",
+			"pageclass",
+			"$pageclass",
+			"career",
+			"h5",
+			"h1",
+			"get_default_header_btn",
+			"class=\"btn booking\"",
+			">\n",
+			"submit",
+			"captcha",
+			"add",
+			"light",
+			"lightb",
+			"slide",
+			"fav-logo",
+			".footersearch",
+			"input.search-query",
+			"searchinput.search-query",
+			"search",
+			"web",
+			"ftp_r",
+			"intro",
+			"text",
+			"intro",
+			"introtext",
+			"title",
+			"more",
+			"itemTitle",
+			"manufactured minerals using Sizer technology",
+			"40px",
+			";\n",
+			"button",
+			"&",
+			"http://www.mmdsizers.com/au/applications/viewapp.php?ID=1220",
+			"http://www.mmdsizers.com/au/applications/applist.php?industry=52",
+			"/es/news/index.php?newsitem=3",
+			"histor",
+			"&",
+			"=\"en\"",
+			"/es/",
+			"/au/",
+			"</changefreq>\n</url>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&amp;",
+			"=\"x-default\"",
+			"/",
+			"/es/",
+			"</changefreq>\n  <priority>0.3</priority>\n</url>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "git-test.sublime-project",
+	"replace":
+	{
+		"height": 83.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
